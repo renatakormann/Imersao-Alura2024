@@ -3,7 +3,7 @@
 
 /* Estiliza o corpo da página */
 body {
-        background-image: (FELISBERTO%20ALTA-9673.jpg");
+        background-image: url("Images/FELISBERTO ALTA-9673.jpg");
         /* Adicione outras propriedades para personalizar o fundo */
         background-size: cover; /* Faz a imagem cobrir toda a área */
         background-position: center; /* Centraliza a imagem */
