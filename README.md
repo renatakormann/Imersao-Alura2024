@@ -30,5 +30,5 @@ Se você quiser ajudar a tornar o Felisberto ainda mais incrível, fique à vont
 
 **#Felisberto #Gato #Programação #HTML #CSS #JavaScript**
 
-*E se você leu até aqui, o Felisberto veio agradecer pessoalmente com toda a elegência.*
+*E se você leu até aqui, o Felisberto veio agradecer pessoalmente com toda a elegância.*
 ![FELISBERTO BAIXA-9603](https://github.com/user-attachments/assets/cd10a07f-39f6-4c5f-926e-e7e3e2323b44)
